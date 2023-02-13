@@ -4,15 +4,16 @@ Java Open Eletronic Date Interchange (intercâmbio de dados eletrônico EDI):  �
 PADRÕES EDI
 
 1. PROCEDA (INTELIPOST) - Brasil;
-2. EDIFACT UN (UNIO NATION) - Europa e suas variantes EDIFACT ACE, EDIFACT SMDG;
-3. X12 (ANSI) - Estados Unidos e suas variantes X12 ASC, X12 HIPAA
-4. API
-5. RND (Anfavea) - Brasil
-6. CNAB (FEBRABAN) - Brasil
-7. HL7
-8. EANCON GS1
-9. VDA
-10. EDIGAS
-11. NCPDC
-12. IATA PADIS
+2. CNAB 240 e 400 (FEBRABAN) - Brasil;
+3. EDIFACT UN (UNIO NATION) - Europa e suas variantes EDIFACT ACE, EDIFACT SMDG;
+4. X12 (ANSI) - Estados Unidos e suas variantes X12 ASC, X12 HIPAA
+5. API
+6. RND (Anfavea) - Brasil
+7. CNAB (FEBRABAN) - Brasil
+8. HL7
+9. EANCON GS1
+10. VDA
+11. EDIGAS
+12. NCPDC
+13. IATA PADIS
 
