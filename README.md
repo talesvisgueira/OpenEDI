@@ -1,2 +1,2 @@
-# ServerEDI
-Server Eletronic Date Interchange open source
+# JOEDI
+Java Open Eletronic Date Interchange this is 
