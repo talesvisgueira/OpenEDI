@@ -2,9 +2,10 @@
 Java Open Eletronic Date Interchange (intercâmbio de dados eletrônico EDI):  É um projeto em java baseados em componentes opensource para implementar o intercâmbio de dados eletrônico (EDI) com os principais padrões de transferências de arquvivos exitentes.
 
 Plataformas em uso:
-    Apache Camel :: https://camel.apache.org
-    Apache Daffodil :: https://daffodil.apache.org/
-    Smooks :: https://www.smooks.org, and many, many more ...
+
+  -  Apache Camel :: https://camel.apache.org
+  -  Apache Daffodil :: https://daffodil.apache.org/
+  -  Smooks :: https://www.smooks.org, and many, many more ...
 
 
 PADRÕES EDI
